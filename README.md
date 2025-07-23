@@ -7,3 +7,8 @@ sure thing lil bro
 * test test
 * test `test test`
 * ong
+```python
+import random
+print(random.randint(25,255))
+print("Hello World!")
+```
