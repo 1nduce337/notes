@@ -1,1 +1,1 @@
-**# amogus sussy baka dudududu**
+# Amogus sussy baka dududu
